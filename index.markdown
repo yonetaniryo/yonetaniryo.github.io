@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as HCI and robotics..
+I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as HCI and robotics.
 
 Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 

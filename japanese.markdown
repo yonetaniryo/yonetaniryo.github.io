@@ -66,9 +66,9 @@ permalink: /ja/
 - 画像の認識・理解シンポジウム (MIRU) 2019 財務委員長
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
 - Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
-- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-現在
+- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-2022
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
-- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-現在
+- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-2018
 - Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications (MVA2017)
 - Sponsorship Chair @ International Conference on Multimodal Interaction (ICMI2016)
@@ -88,7 +88,7 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
-- Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces",International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)
+- Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)
 - Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", International Conference on Machine Learning **(ICML)**, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
 - Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, Yoshihisa Ijiri, "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 [[paper]](https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf) [[project page]](https://kazutoshi-tanaka.github.io/pages/transam.html)
 - Felix von Drigalski, Masashi Hayashi, Yifei Huang, Ryo Yonetani, Masashi Hamaya, Kazutoshi Tanaka, and Yoshihisa Ijiri, "Precise Multi-Modal In-Hand Pose Estimation using Low-Precision Sensors for Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 [[paper]](https://ieeexplore.ieee.org/document/9561222)

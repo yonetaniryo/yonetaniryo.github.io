@@ -9,7 +9,7 @@ I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en
 
 Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
-**🎉Open positions for research interns**: At OMRON SINIC X, we are hiring research interns throughout the year. If you are interested, please contact us at internships@sinicx.com with your CV.
+**🎉Open positions for research interns**: At OMRON SINIC X, we are hiring research interns throughout the year. For more information, please visit our [call for interns page](https://www.omron.com/sinicx/en/internship/)! 
 
 ## 🧠 Research Interests
 * **Computer vision**: First-person vision; Visual forecasting

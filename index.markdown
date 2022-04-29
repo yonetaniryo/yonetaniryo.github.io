@@ -22,7 +22,7 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 
 ## 💼 Working Experience
 * Principal Investigator at OMRON SINIC X (2020 - Present)
-* Project Assistant Professor at Hyper Vision Research laboratory, Keio University (2021 - Present)
+* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021 - Present)
 * Senior Researcher at OMRON SINIC X (2019 - 2020)
 * Visiting Scholar at Carnegie Mellon University (2016 - 2017)
 * Assistant Professor at University of Tokyo (2014 - 2018)

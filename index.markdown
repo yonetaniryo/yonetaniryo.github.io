@@ -5,13 +5,13 @@
 layout: home
 ---
 
-I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as HCI and robotics.
+I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
 
 Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
 **🎉Open positions for research interns**: At OMRON SINIC X, we are hiring research interns throughout the year. For more information, please visit our [call for interns page](https://www.omron.com/sinicx/en/internship/)! 
 
-## 🧠 Research Interests
+## 💡 Research Interests
 * **Computer vision**: First-person vision; Visual forecasting
 * **Machine learning**: Federated learning; Neural planners; Transfer learning; Reinforcement learning
 
@@ -21,8 +21,8 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 * B.E in Electrical and Electronic Engneering @ Kyoto University (2009/03)
 
 ## 💼 Working Experience
-* Principal Investigator at OMRON SINIC X (2020 - Present)
-* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021 - Present)
+* Principal Investigator at OMRON SINIC X (2020 - )
+* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021 - )
 * Senior Researcher at OMRON SINIC X (2019 - 2020)
 * Visiting Scholar at Carnegie Mellon University (2016 - 2017)
 * Assistant Professor at University of Tokyo (2014 - 2018)

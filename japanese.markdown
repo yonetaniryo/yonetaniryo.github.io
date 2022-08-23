@@ -88,6 +88,8 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
+
+- Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters (RA-L), 2022
 - Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)
 - Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", International Conference on Machine Learning **(ICML)**, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
 - Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, Yoshihisa Ijiri, "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 [[paper]](https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf) [[project page]](https://kazutoshi-tanaka.github.io/pages/transam.html)

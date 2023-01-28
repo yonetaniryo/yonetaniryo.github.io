@@ -20,14 +20,13 @@ permalink: /ja/
   - 「提示イベントと眼球動作との同期構造分析に基づく注視対象推定」（指導教員: 松山隆司先生）
 
 ## 職位
-- 2021-現在 慶應大学 特任講師
-- 2020-現在 オムロンサイニックエックス株式会社 PI
-- 2019-2022 東京大学生産技術研究所 協力研究員
-- 2019-2020 オムロンサイニックエックス株式会社 シニアリサーチャー
-- 2014-2018 東京大学生産技術研究所 助教
-- 2018      オムロンサイニックエックス株式会社 技術アドバイザ
-- 2016-2017 Visiting Scholar at Carnegie Mellon University, Robotics Institute 
-- 2012-2013 日本学術振興会特別研究員（DC2/PD）
+- 2020.4-現在 オムロンサイニックエックス株式会社 PI
+- 2021.4-現在 慶應大学 特任講師
+- 2019.1-2022.3 東京大学生産技術研究所 協力研究員
+- 2019.1-2020.3 オムロンサイニックエックス株式会社 シニアリサーチャー
+- 2014.4-2018.12 東京大学生産技術研究所 助教
+- 2016.9-2017.8 Visiting Scholar at Carnegie Mellon University, Robotics Institute 
+- 2012.4-2014.3 日本学術振興会特別研究員（DC2/PD）
 
 ## 受賞
 
@@ -56,10 +55,12 @@ permalink: /ja/
 - 日本学術振興会特別研究員研究助成, "時区間ハイブリッドダイナミカルシステムを用いた心の分析とモデル化", 2012-2014
 
 ### 共同研究者, 研究協力者
-- JST戦略的創造研究推進事業（CREST）, "集合視による注視・行動解析に基づくライフイノベーション創出"（代表: 佐藤洋一）, 2014 - 2018
-- JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 2018
+- 科学研究費助成事業 基盤研究（B）, "多様な環境に適用可能なコンピュータビジョンと無線通信のクロスモーダルセンシング"（代表: 西尾 理志）, 2022-2025
+- JST戦略的創造研究推進事業（CREST）, "集合視による注視・行動解析に基づくライフイノベーション創出"（代表: 佐藤洋一）, 2014-2018
+- JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016-2018
 
 ## 学会活動
+- Tutorial Chair @ [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
 - Organizer @ [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
 - 画像の認識・理解シンポジウム (MIRU) 2021 財務委員長
 - Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
@@ -76,6 +77,7 @@ permalink: /ja/
 - Reviewer @ CVPR, ICCV, ECCV, BMVC, ACCV, TPAMI, IJCV, NeurIPS, ICLR, IJCAI, AAAI, IROS, ICRA, CHI, ICPR, etc.
 
 ## 招待講演，講義
+- Federated Learningにおける典型的な課題と最近の展開, 第25回情報論的学習理論ワークショップ（IBIS 2022）チュートリアル, 2022 ([資料](https://speakerdeck.com/osx/federated-learning-tutorial-ibis-2022))
 - 人の動きを予測する機械学習技術, 慶応義塾大学理工学部：情報工学特別講義, 2021
 - サーベイ論文の書き方 ～視覚的注意モデルのサーベイを題材に～, パターン認識とメディア理解研究会, 2018（[資料（10.8MB）](https://www.dropbox.com/s/vvqxs698en01uf2/PRMU180518_yonetani_small.pdf?dl=0)）
 - 一人称ビジョンと集合視, 【第22回AIセミナー】 「コンピュータービジョンとAI　～人とロボットの視覚～」, 産総研 人工知能研究センター, 2018（[資料 (146MB)](https://goo.gl/SW3kbS)）
@@ -89,7 +91,8 @@ permalink: /ja/
 
 ### Peer-reviewed papers
 
-- Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters (RA-L), 2022
+- Kazumi Kasaura, Ryo Yonetani, Mai Nishimura, "Periodic Multi-Agent Path Planning", AAAI Conference on Artificial Intelligence **(AAAI)**, 2023 [[paper]](https://github.com/omron-sinicx/PeriodicMAPP/blob/master/paper.pdf) [[project page]](https://omron-sinicx.github.io/PeriodicMAPP/)
+- Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters **(RA-L)**, 2022 [[paper]](https://ieeexplore.ieee.org/document/9811344) [[project page]](https://omron-sinicx.github.io/PSIPP-CTC/)
 - Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)
 - Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", International Conference on Machine Learning **(ICML)**, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
 - Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, Yoshihisa Ijiri, "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 [[paper]](https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf) [[project page]](https://kazutoshi-tanaka.github.io/pages/transam.html)

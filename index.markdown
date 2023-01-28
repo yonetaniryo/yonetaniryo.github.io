@@ -9,33 +9,32 @@ I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en
 
 Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
-**🎉Open positions for research interns**: At OMRON SINIC X, we are hiring research interns throughout the year. For more information, please visit our [call for interns page](https://www.omron.com/sinicx/en/internship/)! 
 
 ## 💡 Research Interests
-* **Computer vision**: First-person vision; Visual forecasting
-* **Machine learning**: Federated learning; Neural planners; Transfer learning; Reinforcement learning
+* **Machine Learning**: Neural Planner; Federated Learning; Transfer Learning
+* **Computer Vision**: First-Person Vision; Visual Forecasting; Human Sensing
+* **Multi-Agent Systems**: Multi-Agent Path Planning; Multi-Agent Reinforcement Learning
+
 
 ## 🎓 Education
-* Ph.D. in Informatics @ Kyoto University (2013/11)
-* M.S in Informatics @ Kyoto University (2011/03)
-* B.E in Electrical and Electronic Engneering @ Kyoto University (2009/03)
+* Ph.D. in Informatics @ Kyoto University (2013.11)
+* M.S in Informatics @ Kyoto University (2011.3)
+* B.E in Electrical and Electronic Engneering @ Kyoto University (2009.3)
 
-## 💼 Working Experience
-* Principal Investigator at OMRON SINIC X (2020-now)
-* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021-now)
-* Senior Researcher at OMRON SINIC X (2019-2020)
-* Visiting Scholar at Carnegie Mellon University (2016-2017)
-* Assistant Professor at University of Tokyo (2014-2018)
+## 💼 Work Experience
+* Principal Investigator at OMRON SINIC X (2020.4-present)
+* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021.4-present)
+* Senior Researcher at OMRON SINIC X (2019.1-2020.3)
+* Visiting Scholar at Carnegie Mellon University (2016.9-2017.8)
+* Assistant Professor at University of Tokyo (2014.4-2018.12)
 
 
 
 ## 📄 Publications
 
-[DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) \| [CiNii](http://ci.nii.ac.jp/nrid/9000017546008)
-
-
 ### Peer-reviewed papers
-- Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters (RA-L), 2022
+- Kazumi Kasaura, Ryo Yonetani, Mai Nishimura, "Periodic Multi-Agent Path Planning", AAAI Conference on Artificial Intelligence **(AAAI)**, 2023 [[paper]](https://github.com/omron-sinicx/PeriodicMAPP/blob/master/paper.pdf) [[project page]](https://omron-sinicx.github.io/PeriodicMAPP/)
+- Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters **(RA-L)**, 2022 [[paper]](https://ieeexplore.ieee.org/document/9811344) [[project page]](https://omron-sinicx.github.io/PSIPP-CTC/)
 - Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)
 - Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A\* Search", International Conference on Machine Learning **(ICML)**, 2021 [[paper]](https://arxiv.org/abs/2009.07476) [[project page]](https://omron-sinicx.github.io/neural-astar/)
 - Kazutoshi Tanaka, Ryo Yonetani, Masashi Hamaya, Robert Lee, Felix von Drigalski, Yoshihisa Ijiri, "TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly", International Conference on Robotics and Automation **(ICRA)**, 2021 [[paper]](https://kazutoshi-tanaka.github.io/pages/TRANS_AM_Transfer_Learning_by_Aggregating_Dynamics_Models.pdf) [[project page]](https://kazutoshi-tanaka.github.io/pages/transam.html)
@@ -87,6 +86,7 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 
 ### Chair experience
 
+- Tutorial Chair @ [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
 - Organizer @ [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
 - Publication Chair @ [International Conference on Machine Vision Applications (MVA), 2021](http://www.mva-org.jp/mva2021/)
 - Publicity Chair @ [Asian Conference on Computer Vision (ACCV), 2020](https://accv2020.github.io/)
@@ -94,18 +94,7 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 - Sponsorship Chair @ [International Conference on Multimodal Interaction (ICMI), 2016](http://icmi.acm.org/2016/)
 
 ### Reviewer experience
-- Computer vision (2014 - Present): CVPR, ICCV, ECCV, BMVC, ACCV, WACV, PAMI, IJCV
-- Robotics (2019 - Present): ICRA, IROS
-- Machine learning and AI (2021 - Present): IJCAI, AAAI
+- Computer vision: CVPR, ICCV, ECCV, BMVC, ACCV, WACV, PAMI, IJCV
+- Robotics: ICRA, IROS
+- Machine learning and AI: IJCAI, AAAI, NeurIPS, ICML, ICLR
 - Others: CHI, ICPR
-
-### Grants
-- JST ACT-I "Privacy-Preserving First-Person Vision", 2016 - 2018 (PI)
-- Foundation for the Promotion of Industrial Science Scholarship Program, 2016 - 2017
-- JSPS Grant-in-Aid for Young Scientists (B), 2015 - 2017 (PI)
-- The Kayamori Foundation for Informational Science Advancement Research Grant, 2015 - 2017 (PI)
-- The Okawa Foundation for Information and Telecommunications Research Grant, 2015 - 2016 (PI)
-- JST CREST "Analyzing Human Attention and Behavior via Collective Visual Sensing for the Creation of Life Innovation", 2014 - 2018 (Collaborator)
-- JST SICORP "Learning and Detecting Changes in Population Behavior from Video", 2017 - 2018 (Collaborator)
-- JSPS Research Fellowship for Young Scientists (JSPS DC2), 2012 - 2014 (PI)
-- Young Leader Fostering Program, supported by Kyoto University Global COE program, 2011 - 2012 (PI)

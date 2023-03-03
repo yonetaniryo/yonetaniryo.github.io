@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a principal investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
+I am a Principal Investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
 
 Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
@@ -33,6 +33,7 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 ## 📄 Publications
 
 ### Peer-reviewed papers
+- Masafumi Endo, Tatsunori Taniai, Ryo Yonetani, Genya Ishigami, "Risk-aware Path Planning via Probabilistic Fusion of Traversability Prediction for Planetary Rovers on Heterogeneous Terrains", International Conference on Robotics and Automation **(ICRA)**, 2023 [[paper]](https://arxiv.org/abs/2303.01169)
 - Kazumi Kasaura, Ryo Yonetani, Mai Nishimura, "Periodic Multi-Agent Path Planning", AAAI Conference on Artificial Intelligence **(AAAI)**, 2023 [[paper]](https://github.com/omron-sinicx/PeriodicMAPP/blob/master/paper.pdf) [[project page]](https://omron-sinicx.github.io/PeriodicMAPP/)
 - Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters **(RA-L)**, 2022 [[paper]](https://ieeexplore.ieee.org/document/9811344) [[project page]](https://omron-sinicx.github.io/PSIPP-CTC/)
 - Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)

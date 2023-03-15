@@ -31,6 +31,7 @@ permalink: /ja/
 ## 受賞
 
 ### 本人によるもの
+- 教育功労賞（パターン認識・メディア理解研究会「研究メンターシッププログラム」立案・運営への貢献）, 電子情報通信学会, 2023
 - MIRUインタラクティブ賞, 画像の認識・理解シンポジウム, 2019
 - CVPR2017 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition, 2017
 - 山下記念研究賞, 情報処理学会, 2016

@@ -5,9 +5,9 @@
 layout: home
 ---
 
-I am a Principal Investigator at [OMRON SINIC X](https://www.omron.com/sinicx/en/), working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
+I am a Research Scientist at CyberAgent AI Lab, working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
 
-Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
+[Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
 
 ## 💡 Research Interests
@@ -22,7 +22,8 @@ Email: ryo.yonetani+at+sinicx.com / [Twitter: @RYonetani](https://twitter.com/RY
 * B.E in Electrical and Electronic Engneering @ Kyoto University (2009.3)
 
 ## 💼 Work Experience
-* Principal Investigator at OMRON SINIC X (2020.4-present)
+* Research Scientist at CyberAgent AI Lab (2023.4-present)
+* Principal Investigator at OMRON SINIC X (2020.4-2023.3)
 * Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021.4-present)
 * Senior Researcher at OMRON SINIC X (2019.1-2020.3)
 * Visiting Scholar at Carnegie Mellon University (2016.9-2017.8)

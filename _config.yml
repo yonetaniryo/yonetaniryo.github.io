@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ryo Yonetani
-email: ryo.yonetani@sinicx.com
+email: yonetani.vision@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ryo Yonetani is a principal investigator at OMRON SINIC X, Japan. 
+  Ryo Yonetani is a Research Scientist at CyberAgent AI Lab, Japan. 
   He received his Ph.D. in Informatics from Kyoto University in 2013. 
   His research interests include computer vision (first-person vision and visual forecasting) 
   and machine learning (federated learning, neural planners, transfer learning, and reinforcement learning).

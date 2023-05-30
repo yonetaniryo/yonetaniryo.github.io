@@ -21,7 +21,7 @@ permalink: /ja/
 
 ## 職位
 - 2023.4-現在 CyberAgent AI Lab リサーチサイエンティスト
-- 2021.4-現在 慶應大学 特任講師
+- 2021.4-現在 慶應義塾大学 特任講師
 - 2020.4-2023.3 オムロンサイニックエックス株式会社 PI
 - 2019.1-2022.3 東京大学生産技術研究所 協力研究員
 - 2019.1-2020.3 オムロンサイニックエックス株式会社 シニアリサーチャー
@@ -93,8 +93,8 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
-
-- Masafumi Endo, Tatsunori Taniai, Ryo Yonetani, Genya Ishigami, "Risk-aware Path Planning via Probabilistic Fusion of Traversability Prediction for Planetary Rovers on Heterogeneous Terrains", International Conference on Robotics and Automation **(ICRA)**, 2023 [[paper]](https://arxiv.org/abs/2303.01169)
+- Hikaru Asano, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno. “Counterfactual Fairness Filter for Fair-Delay Multi-Robot Navigation”, International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2023 [[arXiv](https://arxiv.org/abs/2305.11465)] [[Project](https://omron-sinicx.github.io/ncf2/)]
+- Masafumi Endo, Tatsunori Taniai, Ryo Yonetani, Genya Ishigami, "Risk-aware Path Planning via Probabilistic Fusion of Traversability Prediction for Planetary Rovers on Heterogeneous Terrains", International Conference on Robotics and Automation **(ICRA)**, 2023 [[paper](https://arxiv.org/abs/2303.01169)] [[Project](https://omron-sinicx.github.io/safe-rover-navi/)]
 - Kazumi Kasaura, Ryo Yonetani, Mai Nishimura, "Periodic Multi-Agent Path Planning", AAAI Conference on Artificial Intelligence **(AAAI)**, 2023 [[paper]](https://github.com/omron-sinicx/PeriodicMAPP/blob/master/paper.pdf) [[project page]](https://omron-sinicx.github.io/PeriodicMAPP/)
 - Kazumi Kasaura, Mai Nishimura, Ryo Yonetani, "Prioritized Safe Interval Path Planning for Multi-Agent Pathfinding With Continuous Time on 2D Roadmaps", IEEE Robotics and Automation Letters **(RA-L)**, 2022 [[paper]](https://ieeexplore.ieee.org/document/9811344) [[project page]](https://omron-sinicx.github.io/PSIPP-CTC/)
 - Keisuke Okumura, Ryo Yonetani, Mai Nishimura, Asako Kanezaki, "CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2022 [[paper]](https://arxiv.org/abs/2201.09467) [[project page]](https://github.com/omron-sinicx/ctrm)

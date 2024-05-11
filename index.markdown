@@ -35,6 +35,7 @@ I am a Research Scientist at CyberAgent, working on machine learning, computer v
 ## 📄 Publications
 
 ### Peer-reviewed papers
+- Kohei Honda, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, "When to Replan? an Adaptive Replanning Strategy for Autonomous Navigation Using Deep Reinforcement Learning", International Conference on Robotics and Automation **(ICRA)**, 2024 [[paper](https://arxiv.org/abs/2304.12046)] [[project page](https://omron-sinicx.github.io/when2replan/)]
 - Hikaru Asano, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, “Counterfactual Fairness Filter for Fair-Delay Multi-Robot Navigation”, International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2023 [[paper](https://arxiv.org/abs/2305.11465)] [[project page](https://omron-sinicx.github.io/ncf2/)]
 - Kazumi Kasaura, Shuwa Miura, Tadashi Kozuno, Ryo Yonetani, Kenta Hoshino, Yohei Hosoe, "Benchmarking Actor-Critic Deep Reinforcement Learning Algorithms for Robotics Control with Action Constraints", IEEE Robotics and Automation Letters **(RA-L)**, 2023 [[paper](https://arxiv.org/abs/2304.08743)] [[project page](https://github.com/omron-sinicx/action-constrained-RL-benchmark)]
 - Masafumi Endo, Tatsunori Taniai, Ryo Yonetani, Genya Ishigami, "Risk-aware Path Planning via Probabilistic Fusion of Traversability Prediction for Planetary Rovers on Heterogeneous Terrains", International Conference on Robotics and Automation **(ICRA)**, 2023 [[paper](https://arxiv.org/abs/2303.01169)] [[project page](https://omron-sinicx.github.io/safe-rover-navi/)]

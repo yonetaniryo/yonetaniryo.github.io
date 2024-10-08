@@ -5,36 +5,39 @@
 layout: home
 ---
 
-I am a Research Scientist at CyberAgent, working on machine learning, computer vision, and the integration of these with other fields such as robotics and HCI.
+I am a Senior Research Scientist leading the Activity Understanding Team at CyberAgent AI Lab. My expertise lies in machine learning, robotics, and computer vision, especially related to human activity sensing and understanding. I am also a Project Associate Professor at Hyper Vision Research laboratory, Keio University.
 
-[Twitter: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
+[X: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
 
 ## 💡 Research Interests
 * **Machine Learning**: Neural Planner; Federated Learning; Transfer Learning
-* **Computer Vision**: First-Person Vision; Visual Forecasting; Human Sensing
+* **Wearable Sensing**: Human Sensing; First-Person Vision; Visual Forecasting
 * **Multi-Agent Systems**: Multi-Agent Path Planning; Multi-Agent Reinforcement Learning
 
 
 ## 🎓 Education
-* Ph.D. in Informatics @ Kyoto University (2013.11)
-* M.S in Informatics @ Kyoto University (2011.3)
-* B.E in Electrical and Electronic Engneering @ Kyoto University (2009.3)
+* 2013: Ph.D. in Informatics @ Kyoto University
+* 2011: M.S in Informatics @ Kyoto University
+* 2009: B.E in Electrical and Electronic Engneering @ Kyoto University
 
 ## 💼 Work Experience
-* Research Scientist at CyberAgent AI Lab (2023.4-Present)
-* Project Associate Professor at Hyper Vision Research laboratory, Keio University (2024.4-Present)
-* Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University (2021.4-2024.3)
-* Principal Investigator at OMRON SINIC X (2020.4-2023.3)
-* Senior Researcher at OMRON SINIC X (2019.1-2020.3)
-* Visiting Scholar at Carnegie Mellon University (2016.9-2017.8)
-* Assistant Professor at University of Tokyo (2014.4-2018.12)
+* 2023-Present: Seinor Research Scientist at CyberAgent AI Lab
+* 2024-Present: Project Associate Professor at Hyper Vision Research laboratory, Keio University
+* 2021-2024:    Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University
+* 2020-2023:    Principal Investigator at OMRON SINIC X
+* 2019-2020:    Senior Researcher at OMRON SINIC X
+* 2016-2017:    Visiting Scholar at Carnegie Mellon University
+* 2014-2018:    Assistant Professor at University of Tokyo
 
 
 
 ## 📄 Publications
 
 ### Peer-reviewed papers
+- Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
+- Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]
+- Ryo Yonetani, Jun Baba, Yasutaka Furukawa, "RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information", ACM International Symposium on Wearable Computing **(ISWC)** Notes, 2024 [[paper](https://arxiv.org/abs/2404.12548)] **(Best Paper Honorable Mention)**
 - Kohei Honda, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, "When to Replan? an Adaptive Replanning Strategy for Autonomous Navigation Using Deep Reinforcement Learning", International Conference on Robotics and Automation **(ICRA)**, 2024 [[paper](https://arxiv.org/abs/2304.12046)] [[project page](https://omron-sinicx.github.io/when2replan/)]
 - Hikaru Asano, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, “Counterfactual Fairness Filter for Fair-Delay Multi-Robot Navigation”, International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2023 [[paper](https://arxiv.org/abs/2305.11465)] [[project page](https://omron-sinicx.github.io/ncf2/)]
 - Kazumi Kasaura, Shuwa Miura, Tadashi Kozuno, Ryo Yonetani, Kenta Hoshino, Yohei Hosoe, "Benchmarking Actor-Critic Deep Reinforcement Learning Algorithms for Robotics Control with Action Constraints", IEEE Robotics and Automation Letters **(RA-L)**, 2023 [[paper](https://arxiv.org/abs/2304.08743)] [[project page](https://github.com/omron-sinicx/action-constrained-RL-benchmark)]
@@ -55,7 +58,7 @@ I am a Research Scientist at CyberAgent, working on machine learning, computer v
 - Takayuki Nishio, Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[paper]](https://arxiv.org/abs/1804.08333)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, Vol.40, Issue 11, pp.2749-2761, 2018. [[paper]](https://arxiv.org/abs/1606.04637)
-- Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato, "Browsing Group First-Person Videos with 3D Visualization", accepted to ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
+- Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato, "Browsing Group First-Person Videos with 3D Visualization", ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
 - Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato, "Future Person Localization in First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR, spotlight presentation)**, 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yagi_Future_Person_Localization_CVPR_2018_paper.pdf) [[code]](https://github.com/takumayagi/fpl)
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All)**, 2018
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato, "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", International Conference on Computer Vision **(ICCV)**, 2017 [[paper]](https://arxiv.org/abs/1704.02203)
@@ -87,20 +90,16 @@ I am a Research Scientist at CyberAgent, working on machine learning, computer v
 ## Academic activities
 
 ### Awards
-- Outstanding Reviewer @ CVPR2017
-- IBM Best Student Paper Award (Track IV: Biometrics and Human Computer Interaction) @ ICPR2010
+- Best Paper Honorable Mention, ACM International Symposium on Wearable Computing (ISWC) Notes and Briefs, 2024
+- CVPR2017 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition, 2017
+- IBM Best Student Paper Award (Track IV: Biometrics and Human Computer Interaction), International Conference on Pattern Recognition, 2010
 
 ### Chair experience
 
-- Tutorial Chair @ [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
-- Organizer @ [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
-- Publication Chair @ [International Conference on Machine Vision Applications (MVA), 2021](http://www.mva-org.jp/mva2021/)
-- Publicity Chair @ [Asian Conference on Computer Vision (ACCV), 2020](https://accv2020.github.io/)
-- Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC), 2017](https://printeps.org/HDC2017/)
-- Sponsorship Chair @ [International Conference on Multimodal Interaction (ICMI), 2016](http://icmi.acm.org/2016/)
-
-### Reviewer experience
-- Computer vision: CVPR, ICCV, ECCV, BMVC, ACCV, WACV, PAMI, IJCV
-- Robotics: ICRA, IROS
-- Machine learning and AI: IJCAI, AAAI, NeurIPS, ICML, ICLR
-- Others: CHI, ICPR
+- Program Chair, [International Conference on Machine Vision Applications (MVA), 2025]()
+- Tutorial Chair, [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
+- Organizer, [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
+- Publication Chair, [International Conference on Machine Vision Applications (MVA), 2021](http://www.mva-org.jp/mva2021/)
+- Publicity Chair, [Asian Conference on Computer Vision (ACCV), 2020](https://accv2020.github.io/)
+- Program Chair, [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC), 2017](https://printeps.org/HDC2017/)
+- Sponsorship Chair, [International Conference on Multimodal Interaction (ICMI), 2016](http://icmi.acm.org/2016/)

@@ -21,10 +21,9 @@
 title: Ryo Yonetani
 email: yonetani.vision@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ryo Yonetani is a Research Scientist at CyberAgent AI Lab, Japan. 
+  Ryo Yonetani is a Senior Research Scientist at CyberAgent AI Lab, Japan. 
   He received his Ph.D. in Informatics from Kyoto University in 2013. 
-  His research interests include computer vision (first-person vision and visual forecasting) 
-  and machine learning (federated learning, neural planners, transfer learning, and reinforcement learning).
+  His research interests include machine learning, robotics, and computer vision, especially related to human activity sensing and understanding
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryonetani

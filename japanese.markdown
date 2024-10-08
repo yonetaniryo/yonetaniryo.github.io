@@ -8,31 +8,32 @@ permalink: /ja/
 # 米谷　竜（よねたに　りょう）
 
 情報科学分野において、主にコンピュータビジョンと機械学習の研究に従事しています。
-京都大学で博士号取得後、東大生産技術研究所助教、カーネギーメロン大学訪問研究員、オムロンサイニックエックスのPIを経て、現在はCyberAgent AI Labのリサーチサイエンティストとして働いています。
+京都大学で博士号取得後、東大生産技術研究所助教、カーネギーメロン大学訪問研究員、オムロンサイニックエックスのPIを経て、現在はサイバーエージェント AI Labのシニアリサーチサイエンティストとして働いています。
 
 ## 学歴
 - 博士（情報学）
-- 2013.11 京都大学　大学院情報学研究科　知能情報学専攻　博士課程　期間短縮修了
+- 2013: 京都大学　大学院情報学研究科　知能情報学専攻　博士課程　期間短縮修了
   - "Modeling Spatiotemporal Correlations between Video Saliency and Gaze Dynamics"（主査: 松山隆司先生）
-- 2011.3 京都大学　大学院情報学研究科　知能情報学専攻　修士課程　修了
+- 2011: 京都大学　大学院情報学研究科　知能情報学専攻　修士課程　修了
   - 「映像の顕著性変動と視線運動の時空間相関分析に基づいた集中度推定」（主査: 松山隆司先生）
-- 2009.3 京都大学　電気電子工学科　卒業
+- 2009: 京都大学　電気電子工学科　卒業
   - 「提示イベントと眼球動作との同期構造分析に基づく注視対象推定」（指導教員: 松山隆司先生）
 
 ## 職位
-- 2023.4-現在 CyberAgent AI Lab リサーチサイエンティスト
-- 2024.4-現在 慶應義塾大学 特任准教授
-- 2021.4-2024.3 慶應義塾大学 特任講師
-- 2020.4-2023.3 オムロンサイニックエックス株式会社 PI
-- 2019.1-2022.3 東京大学生産技術研究所 協力研究員
-- 2019.1-2020.3 オムロンサイニックエックス株式会社 シニアリサーチャー
-- 2014.4-2018.12 東京大学生産技術研究所 助教
-- 2016.9-2017.8 Visiting Scholar at Carnegie Mellon University, Robotics Institute 
-- 2012.4-2014.3 日本学術振興会特別研究員（DC2/PD）
+- 2023-現在: サイバーエージェント AI Lab シニアリサーチサイエンティスト
+- 2024-現在: 慶應義塾大学 特任准教授
+- 2021-2024: 慶應義塾大学 特任講師
+- 2020-2023: オムロンサイニックエックス PI
+- 2019-2022: 東京大学生産技術研究所 協力研究員
+- 2019-2020: オムロンサイニックエックス シニアリサーチャー
+- 2014-2018: 東京大学生産技術研究所 助教
+- 2016-2017: Visiting Scholar at Carnegie Mellon University, Robotics Institute 
+- 2012-2014: 日本学術振興会特別研究員（DC2/PD）
 
 ## 受賞
 
 ### 本人によるもの
+- Best Paper Honorable Mention, ACM International Symposium on Wearable Computing (ISWC) Notes and Briefs, 2024
 - 教育功労賞（パターン認識・メディア理解研究会「研究メンターシッププログラム」立案・運営への貢献）, 電子情報通信学会, 2023
 - MIRUインタラクティブ賞, 画像の認識・理解シンポジウム, 2019
 - CVPR2017 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition, 2017
@@ -42,7 +43,8 @@ permalink: /ja/
 - MIRU優秀学生論文賞, 画像の認識・理解シンポジウム, 2012
 - IBM Best Student Paper Award (Track IV: Biometrics and Human Computer Interaction), International Conference on Pattern Recognition, 2010
 
-### 共著学生によるもの
+### 共著によるもの
+- 石毛真修, 吉村康弘, 河野陽日, 岩見彰太, 米谷竜, MIRUデモ発表賞, 画像の認識・理解シンポジウム, 2024
 - 杉田祐樹, インタラクティブ発表賞, インタラクション2017, 2017
 - 村上晋太郎, CVIM奨励賞, 情報処理学会コンピュータビジョンとイメージメディア研究会, 2016
 - 樋口未来, CVIM奨励賞, 情報処理学会コンピュータビジョンとイメージメディア研究会, 2016
@@ -58,26 +60,26 @@ permalink: /ja/
 - 日本学術振興会特別研究員研究助成, "時区間ハイブリッドダイナミカルシステムを用いた心の分析とモデル化", 2012-2014
 
 ### 共同研究者, 研究協力者
-- 科学研究費助成事業 基盤研究（B）, "多様な環境に適用可能なコンピュータビジョンと無線通信のクロスモーダルセンシング"（代表: 西尾 理志）, 2022-2025
+- 科学研究費助成事業 基盤研究（B）, "多様な環境に適用可能なコンピュータビジョンと無線通信のクロスモーダルセンシング"（代表: 西尾 理志）, 2022-2026
 - JST戦略的創造研究推進事業（CREST）, "集合視による注視・行動解析に基づくライフイノベーション創出"（代表: 佐藤洋一）, 2014-2018
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016-2018
 
 ## 学会活動
-- Tutorial Chair @ [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
-- Organizer @ [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
+- Program Chair, [International Conference on Machine Vision Applications (MVA), 2025]()
+- Tutorial Chair, [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
+- Organizer, [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
 - 画像の認識・理解シンポジウム (MIRU) 2021 財務委員長
-- Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
+- Publicity Chair, [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
 - 画像の認識・理解シンポジウム (MIRU) 2019 財務委員長
-- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
-- Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
+- Program Committee Member, [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
+- Organizer, [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-2022
-- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
+- Program Committee Member, [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
 - 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-2018
-- Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
-- Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications (MVA2017)
-- Sponsorship Chair @ International Conference on Multimodal Interaction (ICMI2016)
+- Program Chair, [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
+- Organizing Committee Member, IAPR International Conference on Machine Vision and Applications (MVA2017)
+- Sponsorship Chair, International Conference on Multimodal Interaction (ICMI2016)
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 運営委員, 2014 - 2018
-- Reviewer @ CVPR, ICCV, ECCV, BMVC, ACCV, TPAMI, IJCV, NeurIPS, ICLR, IJCAI, AAAI, IROS, ICRA, CHI, ICPR, etc.
 
 ## 招待講演，講義
 - Federated Learningにおける典型的な課題と最近の展開, 第25回情報論的学習理論ワークショップ（IBIS 2022）チュートリアル, 2022 ([資料](https://speakerdeck.com/osx/federated-learning-tutorial-ibis-2022))
@@ -94,6 +96,9 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
+- Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
+- Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]
+- Ryo Yonetani, Jun Baba, Yasutaka Furukawa, "RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information", ACM International Symposium on Wearable Computing **(ISWC)** Notes, 2024 [[paper](https://arxiv.org/abs/2404.12548)] **(Best Paper Honorable Mention)**
 - Kohei Honda, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, "When to Replan? an Adaptive Replanning Strategy for Autonomous Navigation Using Deep Reinforcement Learning", International Conference on Robotics and Automation **(ICRA)**, 2024 [[paper](https://arxiv.org/abs/2304.12046)] [[project page](https://omron-sinicx.github.io/when2replan/)]
 - Hikaru Asano, Ryo Yonetani, Mai Nishimura, Tadashi Kozuno, “Counterfactual Fairness Filter for Fair-Delay Multi-Robot Navigation”, International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2023 [[paper](https://arxiv.org/abs/2305.11465)] [[project page](https://omron-sinicx.github.io/ncf2/)]
 - Kazumi Kasaura, Shuwa Miura, Tadashi Kozuno, Ryo Yonetani, Kenta Hoshino, Yohei Hosoe, "Benchmarking Actor-Critic Deep Reinforcement Learning Algorithms for Robotics Control with Action Constraints", IEEE Robotics and Automation Letters **(RA-L)**, 2023 [[paper](https://arxiv.org/abs/2304.08743)] [[project page](https://github.com/omron-sinicx/action-constrained-RL-benchmark)]
@@ -114,7 +119,7 @@ permalink: /ja/
 - Takayuki Nishio, Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[paper]](https://arxiv.org/abs/1804.08333)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, Vol.40, Issue 11, pp.2749-2761, 2018. [[paper]](https://arxiv.org/abs/1606.04637)
-- Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato, "Browsing Group First-Person Videos with 3D Visualization", accepted to ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
+- Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato, "Browsing Group First-Person Videos with 3D Visualization", ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
 - Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato, "Future Person Localization in First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR, spotlight presentation)**, 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yagi_Future_Person_Localization_CVPR_2018_paper.pdf) [[code]](https://github.com/takumayagi/fpl)
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All)**, 2018
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato, "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", International Conference on Computer Vision **(ICCV)**, 2017 [[paper]](https://arxiv.org/abs/1704.02203)

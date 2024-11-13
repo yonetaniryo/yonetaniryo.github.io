@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a Senior Research Scientist leading the Activity Understanding Team at CyberAgent AI Lab. My expertise lies in machine learning, robotics, and computer vision, especially related to human activity sensing and understanding. I am also a Project Associate Professor at Hyper Vision Research laboratory, Keio University.
+I am a Senior Research Scientist leading the Activity Understanding Team at CyberAgent AI Lab. My expertise lies in machine learning, robotics, and computer vision, especially related to human activity sensing and understanding. I am also a Project Associate Professor at Hyper Vision Research Laboratory, Keio University.
 
 [X: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
@@ -23,7 +23,7 @@ I am a Senior Research Scientist leading the Activity Understanding Team at Cybe
 
 ## 💼 Work Experience
 * 2023-Present: Seinor Research Scientist at CyberAgent AI Lab
-* 2024-Present: Project Associate Professor at Hyper Vision Research laboratory, Keio University
+* 2024-Present: Project Associate Professor at Hyper Vision Research Laboratory, Keio University
 * 2021-2024:    Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University
 * 2020-2023:    Principal Investigator at OMRON SINIC X
 * 2019-2020:    Senior Researcher at OMRON SINIC X

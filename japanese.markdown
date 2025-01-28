@@ -21,7 +21,7 @@ permalink: /ja/
 
 ## 職位
 - 2023-現在: サイバーエージェント AI Lab シニアリサーチサイエンティスト
-- 2024-現在: 慶應義塾大学 特任准教授
+- 2024-2025: 慶應義塾大学 特任准教授
 - 2021-2024: 慶應義塾大学 特任講師
 - 2020-2023: オムロンサイニックエックス PI
 - 2019-2022: 東京大学生産技術研究所 協力研究員
@@ -96,6 +96,8 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
+- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025 [[paper](https://arxiv.org/abs/2406.02858)]
+- Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025
 - Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
 - Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]
 - Ryo Yonetani, Jun Baba, Yasutaka Furukawa, "RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information", ACM International Symposium on Wearable Computing **(ISWC)** Notes, 2024 [[paper](https://arxiv.org/abs/2404.12548)] **(Best Paper Honorable Mention)**

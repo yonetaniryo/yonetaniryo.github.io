@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a Senior Research Scientist leading the Activity Understanding Team at CyberAgent AI Lab. My expertise lies in machine learning, robotics, and computer vision, especially related to human activity sensing and understanding. I am also a Project Associate Professor at Hyper Vision Research Laboratory, Keio University.
+I am a Senior Research Scientist leading the Activity Understanding Team at CyberAgent AI Lab. My expertise lies in machine learning, robotics, and computer vision, especially related to human activity sensing and understanding.
 
 [X: @RYonetani](https://twitter.com/RYonetani) / [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) / [GitHub](https://github.com/yonetaniryo)
 
@@ -23,18 +23,20 @@ I am a Senior Research Scientist leading the Activity Understanding Team at Cybe
 
 ## 💼 Work Experience
 * 2023-Present: Seinor Research Scientist at CyberAgent AI Lab
-* 2024-Present: Project Associate Professor at Hyper Vision Research Laboratory, Keio University
-* 2021-2024:    Project Senior Assistant Professor at Hyper Vision Research laboratory, Keio University
-* 2020-2023:    Principal Investigator at OMRON SINIC X
-* 2019-2020:    Senior Researcher at OMRON SINIC X
-* 2016-2017:    Visiting Scholar at Carnegie Mellon University
-* 2014-2018:    Assistant Professor at University of Tokyo
+* 2024-2025: Project Associate Professor at Hyper Vision Research Laboratory, Keio University
+* 2021-2024: Project Senior Assistant Professor at Hyper Vision Research Laboratory, Keio University
+* 2020-2023: Principal Investigator at OMRON SINIC X
+* 2019-2020: Senior Researcher at OMRON SINIC X
+* 2016-2017: Visiting Scholar at Carnegie Mellon University
+* 2014-2018: Assistant Professor at University of Tokyo
 
 
 
 ## 📄 Publications
 
 ### Peer-reviewed papers
+- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025 [[paper](https://arxiv.org/abs/2406.02858)]
+- Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025
 - Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
 - Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]
 - Ryo Yonetani, Jun Baba, Yasutaka Furukawa, "RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information", ACM International Symposium on Wearable Computing **(ISWC)** Notes, 2024 [[paper](https://arxiv.org/abs/2404.12548)] **(Best Paper Honorable Mention)**

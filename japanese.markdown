@@ -65,7 +65,7 @@ permalink: /ja/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016-2018
 
 ## 学会活動
-- Program Chair, [International Conference on Machine Vision Applications (MVA), 2025]()
+- Program Chair, [International Conference on Machine Vision Applications (MVA), 2025](http://www.mva-org.jp/mva2025/)
 - Tutorial Chair, [International Conference on Machine Vision Applications (MVA), 2023](http://www.mva-org.jp/mva2023/)
 - Organizer, [ACML 2021 Workshop on Machine Learning for Mobile Robot Vision and Control (MRVC)](https://mrvc-2021.net/)
 - 画像の認識・理解シンポジウム (MIRU) 2021 財務委員長
@@ -96,8 +96,8 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
-- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025 [[paper](https://arxiv.org/abs/2406.02858)]
-- Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)** (to appear), 2025
+- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2406.02858)]
+- Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2502.16515)]
 - Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
 - Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]
 - Ryo Yonetani, Jun Baba, Yasutaka Furukawa, "RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information", ACM International Symposium on Wearable Computing **(ISWC)** Notes, 2024 [[paper](https://arxiv.org/abs/2404.12548)] **(Best Paper Honorable Mention)**

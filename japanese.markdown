@@ -96,7 +96,7 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
-- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2406.02858)]
+- Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2406.02858)] [[code](https://github.com/CyberAgentAILab/tsppp)]
 - Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2502.16515)]
 - Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]
 - Hikaru Asano, Ryo Yonetani, Taiki Sekii, Hiroki Ouchi, "Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories", International Natural Language Generation Conference **(INLG)**, 2024 [[paper](https://arxiv.org/abs/2409.12670)] [[code](https://github.com/CyberAgentAILab/text2traj2text)]

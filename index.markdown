@@ -35,6 +35,8 @@ I am a Senior Research Scientist leading the Activity Understanding Team at Cybe
 ## 📄 Publications
 
 ### Peer-reviewed papers
+- Kohei Honda, Takeshi Ishita, Yasuhiro Yoshimura, Ryo Yonetani, "GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting", IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**, 2025 [[paper](https://arxiv.org/abs/2503.05152)]
+- Matthew Ishige, Yasuhiro Yoshimura, Ryo Yonetani, "Opt-in Camera: Person Identification in Video via UWB Localization and Its Application to Opt-in Systems", IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**, 2025 [[paper](https://arxiv.org/abs/2409.19891)]
 - Ryo Yonetani, "TSPDiffuser: Diffusion Models as Learned Samplers for Traveling Salesperson Path Planning Problems", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2406.02858)] [[code](https://github.com/CyberAgentAILab/tsppp)]
 - Jiaqi Bao, Ryo Yonetani, "Path Planning using Instruction-Guided Probabilistic Roadmaps", International Conference on Robotics and Automation **(ICRA)**, 2025 [[paper](https://arxiv.org/abs/2502.16515)]
 - Akira Kasuga, Ryo Yonetani, "CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment", ACM International Conference on Information and Knowledge Management **(CIKM)**, 2024 [[paper](https://arxiv.org/abs/2407.21553)]

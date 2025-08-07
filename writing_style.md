@@ -1,6 +1,6 @@
 # Academic Writing Style Guide
 
-In this page, I asked Claude Code to analyze the writing style of my papers to identify common patterns in structure, language, and rhetorical strategies that contribute to effective technical communication in academic discourse.
+In this page, I asked Claude Code to analyze the writing style of my recent papers to identify common patterns in structure, language, and rhetorical strategies that contribute to effective technical communication in academic discourse.
 
 ### Papers Analyzed
 - https://arxiv.org/html/2404.12548v2 (RetailOpt; ISWC 2024 Notes Best Paper Honorable Mention)
@@ -8,6 +8,7 @@ In this page, I asked Claude Code to analyze the writing style of my papers to i
 - https://arxiv.org/html/2502.16515v1 (Instruction-Guided PRM; ICRA 2025)
 - https://arxiv.org/html/2406.02858v2 (TSPDiffuser; ICRA 2025)
 - https://arxiv.org/html/2409.19891v2 (Opt-in Camera; IROS 2025)
+- https://arxiv.org/html/2503.05152v3 (GSplatVNM; IROS 2025)
 - https://arxiv.org/html/2409.12670v1 (Text2Traj2Text; INLG 2024)
 - https://arxiv.org/html/2407.21553v1 (CXSimulator; CIKM 2024)
 - https://arxiv.org/html/2507.04910v1 (Piggyback Camera; arXiv 2025)
@@ -20,7 +21,7 @@ In this page, I asked Claude Code to analyze the writing style of my papers to i
 
 ### Universal Five-Component Structure
 
-All eight papers follow a remarkably consistent **five-component abstract architecture** that compresses the narrative-driven approach of introductions into maximum information density:
+All nine papers follow a remarkably consistent **five-component abstract architecture** that compresses the narrative-driven approach of introductions into maximum information density:
 
 1. **System/Framework Introduction** (1 sentence)
 2. **Technical Challenge/Problem Context** (1-2 sentences)  
@@ -39,10 +40,11 @@ All eight papers follow a remarkably consistent **five-component abstract archit
 - **Text2Traj2Text**: "This paper presents Text2Traj2Text, a novel learning-by-synthesis framework for captioning"
 - **CX Simulator**: "This paper presents the Customer Experience (CX) Simulator, a novel framework designed to assess"
 - **TSPDiffuser**: "This paper presents TSPDiffuser, a novel data-driven path planner for traveling salesperson path planning problems"
+- **GSplatVNM**: "This paper presents a novel approach to image-goal navigation by integrating 3D Gaussian Splatting (3DGS) with Visual Navigation Models (VNMs)"
 
 **Pattern Recognition:**
 - **100% consistency**: "This paper presents" or "We present" 
-- **Innovation markers**: "novel" appears in 7/8 abstracts (87.5%)
+- **Innovation markers**: "novel" appears in 8/9 abstracts (89%)
 - **System naming**: All systems have memorable, descriptive names
 - **Purpose clarity**: Immediate function specification
 
@@ -50,14 +52,15 @@ All eight papers follow a remarkably consistent **five-component abstract archit
 
 ### Opening Phrase Architecture
 **Presentation Verbs (100% usage):**
-- "presents" (7/8 papers) - formal academic presentation
+- "presents" (8/9 papers) - formal academic presentation
 - "We present" vs "This paper presents" - author agency vs document focus
 
 **Innovation Amplifiers:**
-- "novel" (7/8 abstracts) - primary innovation marker
-- "data-driven" (2/8) - methodology emphasis  
-- "easy-to-deploy" (2/8) - practical accessibility
-- "privacy-preserving" (2/8) - ethical positioning
+- "novel" (8/9 abstracts) - primary innovation marker
+- "data-driven" (2/9) - methodology emphasis  
+- "easy-to-deploy" (2/9) - practical accessibility
+- "privacy-preserving" (2/9) - ethical positioning
+- "integrating" (2/9) - technology combination emphasis
 
 ### Technical Challenge Framing (Component 2)
 
@@ -79,6 +82,7 @@ All eight papers follow a remarkably consistent **five-component abstract archit
 - **Method Specification**: "mounts a smartphone equipped with a camera and Inertial Measurement Unit (IMU) on the robot" (Piggyback Camera)
 - **Framework Description**: "leverages egocentric action cues from head-mounted IMU signals to localize the target individual" (EAIL)
 - **Integration Strategy**: "allowing robot operators to specify such constraints through natural language instructions" (IG-PRM)
+- **Technology Synthesis**: "integrating 3D Gaussian Splatting (3DGS) with Visual Navigation Models (VNMs)" (GSplatVNM)
 
 **Technical Precision Markers:**
 - Specific sensor types: "IMU", "UWB", "camera"
@@ -109,9 +113,10 @@ All eight papers follow a remarkably consistent **five-component abstract archit
 
 **Impact Amplification Language:**
 - **Scalability**: "can even generalize to unseen events" (CX Simulator)
-- **Efficiency**: "efficient and accurate estimation" (TSPDiffuser)
+- **Efficiency**: "efficient and accurate estimation" (TSPDiffuser), "significantly reduces storage overhead" (GSplatVNM)
 - **Accessibility**: "real-time recording at 10 fps" (Opt-in Camera)
 - **Reliability**: "reliable identification accuracy" (Opt-in Camera)
+- **Robustness**: "demonstrates robustness across varying image database sparsity" (GSplatVNM)
 
 ## Abstract-Specific Rhetorical Strategies
 
@@ -239,6 +244,17 @@ All eight papers follow a remarkably consistent **five-component abstract archit
 - **Privacy Consciousness**: Ethical considerations integrated into technical description
 - **Multi-environment Validation**: Real-world applicability emphasized
 - **Accessibility Focus**: Systems designed for non-expert deployment
+
+### Technology Integration as Innovation Strategy
+
+**Emerging Pattern - Synthesis Over Invention:**
+GSplatVNM reveals an important trend where innovation comes from strategic combination of existing technologies rather than entirely new algorithmic contributions. This represents a shift toward **integration-driven innovation**.
+
+**Integration Language Patterns:**
+- **Explicit Combination**: "integrating X with Y"
+- **Synergy Emphasis**: Technologies working together to overcome individual limitations
+- **Complementarity**: Each technology addresses different aspects of the problem
+- **Efficiency Focus**: Integration reduces computational or storage requirements
 
 ### Abstract Writing as Micro-Storytelling
 
@@ -679,7 +695,7 @@ These authors represent an evolution in academic discourse, pioneering:
 
 ### Universal Organization Patterns
 
-All eight papers follow a consistent **domain-driven categorization architecture** that organizes existing research into coherent thematic clusters:
+All nine papers follow a consistent **domain-driven categorization architecture** that organizes existing research into coherent thematic clusters:
 
 **Thematic Clustering Strategy:**
 - **Core Domain** (60-70% of content): Central research area directly related to the proposed method
@@ -714,6 +730,11 @@ All eight papers follow a consistent **domain-driven categorization architecture
 - Privacy Protection for Camera Measurement
 - Person Identification via Wireless Communication
 - Robust UWB-based Localization against NLoS
+
+**GSplatVNM - Technology Integration Approach:**
+- ITG-based Visual Navigation (application domain)
+- Construction of Environment-Covering ITG (infrastructure challenge)
+- Visual Navigation with Neural Rendering Models (enabling technology)
 
 ## Language Patterns and Rhetorical Strategies
 

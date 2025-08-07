@@ -1,17 +1,16 @@
-# Claude Analyzes How to Write a Good Paper
+# Academic Writing Style Guide
 
-## Overview
-In-depth analysis of 8 academic papers to identify common writing styles, logical structures, linguistic patterns, storytelling techniques, and rhetorical strategies. This analysis reveals sophisticated narrative-driven approaches that transform complex technical research into accessible, compelling academic discourse.
+In this page, I asked Claude Code to analyze the writing style of my papers to identify common patterns in structure, language, and rhetorical strategies that contribute to effective technical communication in academic discourse.
 
-## Papers Analyzed
-- https://arxiv.org/html/2404.12548v2 (RetailOpt)
-- https://arxiv.org/html/2507.04910v1 (Piggyback Camera)
-- https://arxiv.org/html/2505.14346v2 (Inertial Localization)
-- https://arxiv.org/html/2502.16515v1 (Instruction-Guided PRM)
-- https://arxiv.org/html/2409.19891v2 (Opt-in Camera)
-- https://arxiv.org/html/2409.12670v1 (Text2Traj2Text)
-- https://arxiv.org/html/2407.21553v1 (CXSimulator)
-- https://arxiv.org/html/2406.02858v2 (TSPDiffuser)
+### Papers Analyzed
+- https://arxiv.org/html/2404.12548v2 (RetailOpt; ISWC 2024 Notes Best Paper Honorable Mention)
+- https://arxiv.org/html/2505.14346v2 (Inertial Localization; ICCV 2025)
+- https://arxiv.org/html/2502.16515v1 (Instruction-Guided PRM; ICRA 2025)
+- https://arxiv.org/html/2406.02858v2 (TSPDiffuser; ICRA 2025)
+- https://arxiv.org/html/2409.19891v2 (Opt-in Camera; IROS 2025)
+- https://arxiv.org/html/2409.12670v1 (Text2Traj2Text; INLG 2024)
+- https://arxiv.org/html/2407.21553v1 (CXSimulator; CIKM 2024)
+- https://arxiv.org/html/2507.04910v1 (Piggyback Camera; arXiv 2025)
 
 ---
 

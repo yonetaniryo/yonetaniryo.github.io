@@ -3,15 +3,15 @@
 In this page, I asked Claude Code to analyze the writing style of my recent papers to identify common patterns in structure, language, and rhetorical strategies that contribute to effective technical communication in academic discourse.
 
 ### Papers Analyzed
-- https://arxiv.org/html/2404.12548v2 (RetailOpt; ISWC 2024 Notes Best Paper Honorable Mention)
-- https://arxiv.org/html/2505.14346v2 (Inertial Localization; ICCV 2025)
-- https://arxiv.org/html/2502.16515v1 (Instruction-Guided PRM; ICRA 2025)
-- https://arxiv.org/html/2406.02858v2 (TSPDiffuser; ICRA 2025)
-- https://arxiv.org/html/2409.19891v2 (Opt-in Camera; IROS 2025)
-- https://arxiv.org/html/2503.05152v3 (GSplatVNM; IROS 2025)
-- https://arxiv.org/html/2409.12670v1 (Text2Traj2Text; INLG 2024)
-- https://arxiv.org/html/2407.21553v1 (CXSimulator; CIKM 2024)
-- https://arxiv.org/html/2507.04910v1 (Piggyback Camera; arXiv 2025)
+- [RetailOpt](https://arxiv.org/html/2404.12548v2) (ISWC 2024 Notes Best Paper Honorable Mention)
+- [Inertial Localization](https://arxiv.org/html/2505.14346v2) (ICCV 2025)
+- [Instruction-Guided PRM](https://arxiv.org/html/2502.16515v1) (ICRA 2025)
+- [TSPDiffuser](https://arxiv.org/html/2406.02858v2) (ICRA 2025)
+- [Opt-in Camera](https://arxiv.org/html/2409.19891v2) (IROS 2025)
+- [GSplatVNM](https://arxiv.org/html/2503.05152v3) (IROS 2025)
+- [Text2Traj2Text](https://arxiv.org/html/2409.12670v1) (INLG 2024)
+- [CXSimulator](https://arxiv.org/html/2407.21553v1) (CIKM 2024)
+- [Piggyback Camera](https://arxiv.org/html/2507.04910v1) (arXiv 2025)
 
 ---
 

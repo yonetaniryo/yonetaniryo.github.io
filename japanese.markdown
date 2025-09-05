@@ -96,6 +96,7 @@ permalink: /ja/
 ## 発表論文
 
 ### Peer-reviewed papers
+- Ryo Yonetani, Kotaro Hara, "Map as a By-product: Collective Landmark Mapping from IMU Data and User-provided Texts in Situated Tasks", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT)**, 2025 [[paper]](https://arxiv.org/abs/2509.03792)
 - Mingfang Zhang, Ryo Yonetani, Yifei Huang, Liangyang Ouyang, Ruicong Liu, Yoichi Sato, "Egocentric Action-aware Inertial Localization in Point Clouds", International Conference on Computer Vision **(ICCV)**, 2025 [[paper]](https://arxiv.org/abs/2505.14346)
 - Kohei Honda, Takeshi Ishita, Yasuhiro Yoshimura, Ryo Yonetani, "GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting", IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**, 2025 [[paper](https://arxiv.org/abs/2503.05152)]
 - Matthew Ishige, Yasuhiro Yoshimura, Ryo Yonetani, "Opt-in Camera: Person Identification in Video via UWB Localization and Its Application to Opt-in Systems", IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**, 2025 [[paper](https://arxiv.org/abs/2409.19891)]
